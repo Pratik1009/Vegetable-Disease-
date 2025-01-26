@@ -1,2 +1,2 @@
-# Vegetable-Disease-
-DATA  SCIENCE
+# Vegetable-Disease-Detection
+
